@@ -1,0 +1,2 @@
+# MYVSCODE_ON_WINDOWS
+win上的MyVSCode
