@@ -1,0 +1,15 @@
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\bin\Debug\net6.0\FirstCCship.exe
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\bin\Debug\net6.0\FirstCCship.deps.json
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\bin\Debug\net6.0\FirstCCship.runtimeconfig.json
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\bin\Debug\net6.0\FirstCCship.dll
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\bin\Debug\net6.0\FirstCCship.pdb
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\obj\Debug\net6.0\FirstCCship.csproj.AssemblyReference.cache
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\obj\Debug\net6.0\FirstCCship.GeneratedMSBuildEditorConfig.editorconfig
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\obj\Debug\net6.0\FirstCCship.AssemblyInfoInputs.cache
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\obj\Debug\net6.0\FirstCCship.AssemblyInfo.cs
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\obj\Debug\net6.0\FirstCCship.csproj.CoreCompileInputs.cache
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\obj\Debug\net6.0\FirstCCship.dll
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\obj\Debug\net6.0\refint\FirstCCship.dll
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\obj\Debug\net6.0\FirstCCship.pdb
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\obj\Debug\net6.0\FirstCCship.genruntimeconfig.cache
+D:\my document\MYVSCODE\MYVSCODE_ON_WINDOWS\C#\dir\FirstCCship\obj\Debug\net6.0\ref\FirstCCship.dll
