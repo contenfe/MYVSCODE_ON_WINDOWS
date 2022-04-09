@@ -1,0 +1,3 @@
+D:/my document/MYVSCODE/MYVSCODE_ON_WINDOWS/C++/Project/Demo/src/CMakeFiles/ALL_BUILD.dir
+D:/my document/MYVSCODE/MYVSCODE_ON_WINDOWS/C++/Project/Demo/src/CMakeFiles/ZERO_CHECK.dir
+D:/my document/MYVSCODE/MYVSCODE_ON_WINDOWS/C++/Project/Demo/src/src/CMakeFiles/exec.dir
