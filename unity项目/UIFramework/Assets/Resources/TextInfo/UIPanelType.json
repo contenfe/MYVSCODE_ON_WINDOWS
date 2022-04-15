@@ -1,0 +1,32 @@
+{
+    "infoList": [
+        {
+            "panelTypeString": "MainMenu",
+            "path": "UIPanel/MainMenuPanel"
+        },
+        {
+            "panelTypeString": "Task",
+            "path": "UIPanel/Task/Panel"
+        },
+        {
+            "panelTypeString": "Bag",
+            "path": "UIPanel/BagPanel"
+        },
+        {
+            "panelTypeString": "Shop",
+            "path": "UIPanel/ShopPanel"
+        },
+        {
+            "panelTypeString": "Skill",
+            "path": "UIPanel/SkillPanel"
+        },
+        {
+            "panelTypeString": "System",
+            "path": "UIPanel/SystemPanel"
+        },
+        {
+            "panelTypeString": "ItemMessage",
+            "path": "UIPanel/ItemMessagePanel"
+        }
+    ]
+}

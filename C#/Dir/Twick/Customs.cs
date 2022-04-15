@@ -20,7 +20,7 @@ namespace Customs
         }
         public void SendMsg()
         {
-            Console.WriteLine(Console.ReadLine() + " hello "+cons);
+            Console.WriteLine(Console.ReadLine() + " hello " + cons); ;
         }
 
 

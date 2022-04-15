@@ -12,3 +12,19 @@ C#/*/*/*/bin
 C#/*/*/bin
 C++/*/*/bin
 C++/*/*/build
+
+.exe
+#.dll
+.pdb
+
+obj
+
+bin
+
+
+# unity 项目
+unity项目/*/.vescode
+unity项目/*/Library
+unity项目/*/Logs
+unity项目/*/obj
+
